@@ -1,4 +1,4 @@
-👋 Hi, I’m @devri-codes, find me on discord: devri.
+👋 Hi, I’m @riveyy-codes, find me on discord: `riveyy_`.
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/powered-by-coffee.svg)](https://github.com/riveyy-codes)
+[![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/mom-made-pizza-rolls.svg)](https://github.com/riveyy-codes)
